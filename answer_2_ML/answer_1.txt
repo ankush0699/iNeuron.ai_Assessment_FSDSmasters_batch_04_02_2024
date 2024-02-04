@@ -1,0 +1,43 @@
+Question 1:  Explain how you can implement ML in a real world application.
+
+
+Answer:
+
+steps:
+
+1. Figure Out the Problem: 
+
+First, I need to know what problem I want to solve with machine learning. 
+It could be something like predicting house prices, recognizing cats and dogs in images, or even suggesting movies based on user preferences.
+
+2. Get the Data: 
+
+I'll need data to train my machine learning model. This could come from all sorts of places like spreadsheets, databases, or even websites. Just make sure it's relevant to my problem and I have permission to use it.
+
+3. Clean Up the Data: 
+
+I'll probably find missing values, weird outliers, or just plain errors. I'll spend some time cleaning it up and making sure it's ready for my model to learn from.
+
+4. Think about Features: 
+
+Features are like the building blocks for my model. They're the things my model will use to make predictions. Sometimes I might need to create new features or change existing ones to make them more useful.
+
+5. Pick a Model: 
+
+There are lots of different machine learning models out there, like decision trees, logistic regression, or neural networks. Depending on my problem, I'll need to pick the one that makes the most sense.
+
+6. Train My Model: 
+
+I'll feed my cleaned-up data into my model and let it learn from it. The model will tweak its internal settings to get better and better at making predictions.
+
+6. Test My Model: 
+
+Once my model is trained, I need to see how well it's doing. I'll give it some new data that it hasn't seen before and see how accurate its predictions are.
+
+7. Fine-tune Everything: 
+
+Sometimes my model won't be perfect right away. I might need to tweak some settings or try a different approach to get better results.
+
+8. Deploy My Model: 
+
+I'll integrate it into my application or website so that it can start making predictions in the real world.
